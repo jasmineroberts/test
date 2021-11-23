@@ -1,6 +1,5 @@
-# Full-Stack Development
-## kjhkj
- 
+# XR Development Stack
+
 A brief description of what this project does and who it's for
  
 ### Contributing
