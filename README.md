@@ -1,4 +1,4 @@
-# The Metaverse Stack
+# Full-Stack Development
 ## Full-Stack Development
  
 A brief description of what this project does and who it's for
