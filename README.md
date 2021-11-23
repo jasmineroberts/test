@@ -8,7 +8,7 @@ Notes: This is a resource from a lecture given 11/17/2021 in CS 460 Computer Gra
  
 To add to this resource, send a pull request. If you aren't familiar enough with git/Github, just open an [Issue](https://github.com/jasmineroberts/metaverse-stack/issues).
 
-Let's get started
+Let's get started!
 
 ⇣  \
 ⇣  \
