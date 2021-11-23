@@ -4,7 +4,7 @@ There are a myriad of options for developing immersive experience and the detail
 
 Anyone new to the field or with a keen interest in learning may have the potential to be a great contributor but have no insights regarding the pipeline or how to approach building for XR. This repository seeks to consolidate information for current and aspiring XR developers.
 
-* Note: This is a resource from a lecture given November 17, 2021 for CS 460 Computer Graphics. This does not include cryptocurrencies/blockchain technologies. This is specifically geared towards XR, 3D, and gaming technologies.* 
+*Note: This is a resource from a lecture given November 17, 2021 for CS 460 Computer Graphics. This does not include cryptocurrencies/blockchain technologies. This is specifically geared towards XR, 3D, and gaming technologies*
 
 
  
