@@ -8,9 +8,9 @@ A brief description of what this project does and who it's for
 To add to this, send a pull request. If you aren't familiar enough with git/Github, just open an [Issue](https://github.com/jasmineroberts/metaverse-stack/issues).
  
  
-                         ██████████████████████              -- FRONT-END
+                         ██████████████████████              
                        ██░░░░░░  ░░░░  ░░░░░░░░██ 
-                     ██░░░░░░░░░░░░░░░░░░  ░░  ░░██  
+                     ██░░░░░░░░░░░░░░░░░░  ░░  ░░██          -- FRONT-END
                    ██░░░░░░  ░░░░░░  ░░░░░░░░░░░░░░██
                    ██░░  ░░░░░░  ░░░░░░  ░░░░░░  ░░██
                    ██████████████████████████████████
