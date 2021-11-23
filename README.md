@@ -8,7 +8,7 @@ To add to this resource, send a pull request. If you aren't familiar enough with
 
 ⇣  \
 ⇣  \
-⇣  \
+⇣  
 
 
 ### Frontend
