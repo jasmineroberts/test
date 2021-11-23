@@ -2,7 +2,7 @@
 
 The options for developing immersive experiences are many, and the details complicated — but using this guide it should be possible to understand and pick the right choices.
 
-Notes: This is a resource from a lecture given November 17, 2021 for CS 460 Computer Graphics 
+Notes: This is a resource from a lecture given November 17, 2021 for CS 460 Computer Graphics. This does not include cryptocurrencies/blockchain technologies. This is specifically for XR, 3D, and game engine technologies. 
  
 ## Contributing
  
