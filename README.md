@@ -2,7 +2,7 @@
 
 The options for developing immersive experiences are many, and the details complicated — but using this guide it should be possible to understand and pick the right choices.
  
-### Contributing
+## Contributing
  
 To add to this, send a pull request. If you aren't familiar enough with git/Github, just open an [Issue](https://github.com/jasmineroberts/metaverse-stack/issues).
 
