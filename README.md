@@ -110,10 +110,10 @@ Android https://developer.android.com/ \
 Azure https://azure.microsoft.com/ \
 iOS https://developer.apple.com/ios/ \
 Lens Studio https://www.lensstudio.snapchat.com/ \ 
-Omniverse https://developer.nvidia.com/nvidia-omniverse-platform \
-Roblox https://www.roblox.com/create \ 
-Snapdragon Spaces https://www.qualcomm.com/products/features/snapdragon-spaces-xr-platform \
-Spark AR https://sparkar.facebook.com/ar-studio \
+Omniverse https://developer.nvidia.com/nvidia-omniverse-platform/ \
+Roblox https://www.roblox.com/create/ \ 
+Snapdragon Spaces https://www.qualcomm.com/products/features/snapdragon-spaces-xr-platform/ \
+Spark AR https://sparkar.facebook.com/ar-studio/ \
 Unity https://unity.com/ \
 Unreal https://www.unrealengine.com/ \
 Windows Mixed Reality https://www.microsoft.com/en-us/mixed-reality/windows-mixed-reality
