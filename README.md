@@ -13,11 +13,9 @@ Anyone new to the field or with a keen interest to learn may have the potential 
  
 To add to this resource, send a pull request. If you aren't familiar enough with git/Github, just open an [Issue](https://github.com/jasmineroberts/metaverse-stack/issues).
 
-Enjoy! 🍔
+Enjoy! 
 
-⇣  \
-⇣  \
-⇣  
+🍔
 
 
 ### Frontend
