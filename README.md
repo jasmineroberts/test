@@ -1,6 +1,6 @@
 # XR Development Stack
 
-A brief description of what this project does and who it's for
+The options for developing immersive experiences are many, and the details complicated — but using this guide it should be possible to understand and pick the right choices.
  
 ### Contributing
  
