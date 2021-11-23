@@ -92,7 +92,7 @@ xVRML https://sourceforge.net/projects/xvrml/
  
 ### Backend
 .NET https://docs.microsoft.com/en-us/dotnet/ \
-C# https://docs.microsoft.com/en-us/dotnet/csharp/\
+C# https://docs.microsoft.com/en-us/dotnet/csharp/ \
 C++ https://www.cplusplus.com/doc/tutorial/ \
 Java https://docs.oracle.com/en/java/ \
 lua https://www.lua.org/docs.html \
