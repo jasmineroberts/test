@@ -1,17 +1,17 @@
 # Understanding the XR Technology Burger
 
-There are a myriad of options for developing immersive experience and the details complex. It seems as if biweekly, there are new SDKs, frameworks and technologies introduced to developers. 
+There are a myriad of options for developing immersive experience and the details complex. It seems as if biweekly, there are new SDKs, frameworks and technologies introduced to XR (Augmented, Virtual and Mixed Reality) developers. 
 
-Anyone new to the field or with a keen interest to learn may have the potential to be a great contributor but be provided no insights on how to approach building for XR. This repository seeks to consolidate information for current and aspiring XR (Augmented, Virtual and Mixed Reality) developers.
+Anyone new to the field or with a keen interest in learning may have the potential to be a great contributor but have no insights regarding the pipeline or how to approach building for XR. This repository seeks to consolidate information for current and aspiring XR developers.
 
 
-*Notes: This is a resource from a lecture given November 17, 2021 for CS 460 Computer Graphics. This does not include cryptocurrencies/blockchain technologies. This is specifically geared towards XR, 3D, and gaming technologies.* 
+* Note: This is a resource from a lecture given November 17, 2021 for CS 460 Computer Graphics. This does not include cryptocurrencies/blockchain technologies. This is specifically geared towards XR, 3D, and gaming technologies.* 
 
 
  
 ## Contributing
  
-To add to this resource, send a pull request. If you aren't familiar enough with git/Github, just open an [Issue](https://github.com/jasmineroberts/metaverse-stack/issues).
+To add to this resource, send a pull request. If you aren't familiar enough with git/Github, just open an [issue](https://github.com/jasmineroberts/metaverse-stack/issues).
 
 Enjoy! 
 
