@@ -55,7 +55,7 @@ Advanced API https://vr.tobii.com/sdk/develop/unity/documentation/api-reference/
 ARCore https://arvr.google.com/arcore/ \
 Core API https://vr.tobii.com/sdk/develop/unity/documentation/api-reference/ \
 Mozilla WebVR https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API/Fundamentals \
-Oculus https://dashboard.oculus.com/app/api (note: deprecated in favor of OpenXR)\
+Oculus https://dashboard.oculus.com/app/api \
 Open XR https://www.khronos.org/OpenXR/ \
 WebAudio https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API \
 WebXR https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API 
