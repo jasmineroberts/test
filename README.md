@@ -26,8 +26,8 @@ A brief description of what this project does and who it's for
  
  
 ### Frontend
-A-Frame https://github.com/aframevr/aframe \
-Adobe Aero https://www.adobe.com/products/aero.html \
+A-Frame github.com/aframevr/aframe \
+Adobe Aero www.adobe.com/products/aero.html \
 AngularJS \
 AR.js \
 BabylonJS \
