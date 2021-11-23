@@ -1,6 +1,8 @@
 # XR Development Stack
 
 The options for developing immersive experiences are many, and the details complicated — but using this guide it should be possible to understand and pick the right choices.
+
+Notes: This is a resource from a lecture given 11/17/2021 in CS 460 Computer Graphics 
  
 ## Contributing
  
