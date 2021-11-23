@@ -6,9 +6,9 @@ The options for developing immersive experiences are many, and the details compl
  
 To add to this resource, send a pull request. If you aren't familiar enough with git/Github, just open an [Issue](https://github.com/jasmineroberts/metaverse-stack/issues).
 
-| \
-| \
-| \
+┋ \
+┋ \
+┋ \
 .
 
 ### Frontend
